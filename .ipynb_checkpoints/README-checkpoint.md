@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project analyzes student performance data using Python, Pandas, and Data Visualization Techniques. The goal is to explore academic trends, identify top-performing students, analyze factors affecting performance, and generate meaningful insights from the dataset.
+This project analyzes student performance data using Python, Pandas, and SQL. The goal is to explore academic trends, identify top-performing students, analyze factors affecting performance, and generate meaningful insights from the dataset.
 
 The project includes:
 
@@ -13,7 +13,7 @@ The project includes:
 - Student Performance Analysis
 - SQL Queries
 - Insight Generation
-- Data Visualization
+- Data Visualization (Optional)
 
 This project was built as part of my Data Analysis learning journey to strengthen practical skills in Python, Pandas, SQL, and real-world data analysis.
 
@@ -44,83 +44,9 @@ https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 - Python
 - Pandas
 - NumPy
-- Matplotlib
+- SQL
 - Jupyter Notebook
 - Git & GitHub
-
----
-
-## Analysis Workflow
-
-### 1. Dataset Overview
-
-- Dataset Shape
-- Column Information
-- Data Types
-- Initial Exploration
-
-### 2. Data Cleaning
-
-- Missing Value Analysis
-- Duplicate Detection
-- Data Quality Verification
-
-### 3. Statistical Analysis
-
-- Summary Statistics
-- Subject-wise Average Scores
-- Highest Average Subject
-- Lowest Average Subject
-- Highest and Lowest Scores
-
-### 4. Feature Engineering
-
-- Created Average Score column for overall student performance analysis
-
-### 5. Performance Analysis
-
-- Top Performers
-- Bottom Performers
-- Group Comparisons
-
-### 6. Data Visualization
-
-- Score Distributions
-- Group Comparisons
-- Correlation Analysis
-
-### 7. Insights & Conclusions
-
-- Key Findings
-- Performance Trends
-- Recommendations
-
----
-
-## Current Progress
-
-### Completed
-
-- Dataset Overview
-- Data Cleaning
-- Statistical Analysis
-- Average Score Feature Engineering
-
-### In Progress
-
-- Performance Analysis
-- Data Visualization
-- Insight Generation
-
-### Upcoming
-
-- Top Performer Analysis
-- Bottom Performer Analysis
-- Gender-Based Analysis
-- Lunch Type Analysis
-- Test Preparation Analysis
-- Parental Education Analysis
-- Final Conclusions
 
 ---
 
@@ -148,31 +74,20 @@ https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 
 ---
 
-## Key Findings So Far
-
-- Reading has the highest average score among the three subjects.
-- Mathematics has the lowest average score.
-- Perfect scores were achieved in all subjects.
-- Student performance shows noticeable variation across the dataset.
-- The dataset contains no missing values and is suitable for analysis.
-
----
-
 ## Project Structure
 
-```text
 student-performance-analysis/
-│
+
 ├── data/
 │   └── StudentsPerformance.csv
-│
+
 ├── notebooks/
 │   └── analysis.ipynb
-│
+
 ├── README.md
-│
+
 └── requirements.txt
-```
+
 ---
 
 ## Future Improvements
@@ -184,3 +99,11 @@ student-performance-analysis/
 - Automate reporting using Python
 
 ---
+
+## Author
+
+Alekhya
+
+Aspiring Data Analyst | AI Security Engineer Aspirant
+
+Learning Python, SQL, Pandas, Machine Learning, Open Source, and Data Analysis through hands-on projects.
