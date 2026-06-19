@@ -111,10 +111,10 @@ https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 - Lunch Type Analysis
 - Test Preparation Analysis
 - Parental Education Analysis
-- 
+- Data Visualization
+
 ### In Progress
 
-- Data Visualization
 - Insight Generation
 - Conclusion
 
@@ -171,7 +171,6 @@ student-performance-analysis/
 
 ## Future Improvements
 
-- Add data visualizations
 - Build an interactive dashboard
 - Perform advanced statistical analysis
 - Integrate additional datasets
