@@ -105,22 +105,18 @@ https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 - Data Cleaning
 - Statistical Analysis
 - Average Score Feature Engineering
-
-### In Progress
-
-- Performance Analysis
-- Data Visualization
-- Insight Generation
-
-### Upcoming
-
 - Top Performer Analysis
 - Bottom Performer Analysis
 - Gender-Based Analysis
 - Lunch Type Analysis
 - Test Preparation Analysis
 - Parental Education Analysis
-- Final Conclusions
+- 
+### In Progress
+
+- Data Visualization
+- Insight Generation
+- Conclusion
 
 ---
 
@@ -167,11 +163,9 @@ student-performance-analysis/
 │   └── StudentsPerformance.csv
 │
 ├── notebooks/
-│   └── analysis.ipynb
+│   └── student_performance_analysis.ipynb
 │
-├── README.md
-│
-└── requirements.txt
+└── README.md
 ```
 ---
 
