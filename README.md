@@ -11,11 +11,10 @@ The project includes:
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Student Performance Analysis
-- SQL Queries
 - Insight Generation
 - Data Visualization
 
-This project was built as part of my Data Analysis learning journey to strengthen practical skills in Python, Pandas, SQL, and real-world data analysis.
+This project was built as part of my Data Analysis learning journey to strengthen practical skills in Python, Pandas and real-world data analysis.
 
 ---
 
@@ -112,9 +111,6 @@ https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 - Test Preparation Analysis
 - Parental Education Analysis
 - Data Visualization
-
-### In Progress
-
 - Insight Generation
 - Conclusion
 
@@ -128,7 +124,6 @@ https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 - Identify top and bottom performers
 - Analyze performance based on gender, parental education, lunch type, and test preparation
 - Generate actionable insights from the data
-- Practice SQL queries on real-world data
 
 ---
 
@@ -146,11 +141,17 @@ https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 
 ## Key Findings So Far
 
-- Reading has the highest average score among the three subjects.
-- Mathematics has the lowest average score.
-- Perfect scores were achieved in all subjects.
-- Student performance shows noticeable variation across the dataset.
-- The dataset contains no missing values and is suitable for analysis.
+- Reading achieved the highest average score among all subjects, while Mathematics had the lowest average score.
+
+- Students who completed the test preparation course performed significantly better across Mathematics, Reading, and Writing compared to students who did not complete the course.
+
+- Students with standard lunch consistently achieved higher scores than students receiving free/reduced lunch.
+
+- A positive relationship was observed between parental education level and student performance. Students whose parents held master's or bachelor's degrees generally achieved higher scores.
+
+- Female students performed better overall, particularly in Reading and Writing, while male students achieved slightly higher scores in Mathematics.
+
+- Academic performance appears to be influenced by multiple factors, including test preparation, lunch type, parental education, and gender.
 
 ---
 
@@ -169,7 +170,7 @@ student-performance-analysis/
 ```
 ---
 
-## Future Improvements
+## Future Improvements 
 
 - Build an interactive dashboard
 - Perform advanced statistical analysis
